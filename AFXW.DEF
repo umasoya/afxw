@@ -1,0 +1,21 @@
+﻿[AFXW]
+CFG=ON
+
+[EXT_NORMAL]
+E_000=xlsx
+N_000="&OPEN($W.$E)"
+
+[REG_DIR]
+PRT_00="1: home"
+DIR_00=C:\Users\hp-souma\
+PRT_01="2: MyDocument"
+DIR_01=C:\Users\hp-souma\Documents\
+PRT_02="3: Download"
+DIR_02=C:\Users\hp-souma\Downloads\
+PRT_03="4: Desktop"
+DIR_03=C:\Users\hp-souma\Desktop\
+PRT_04="5: vagrant"
+DIR_04=C:\Users\hp-souma\vagrant\
+PRT_05="6: babun"
+DIR_05=C:\Users\hp-souma\.babun\
+
